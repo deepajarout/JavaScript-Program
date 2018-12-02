@@ -1,2 +1,2 @@
-# Mean-jsTraning9am-11am
-program related mean stack
+# JavaScript-Program
+program related JavaScript(mean) stack
